@@ -21,4 +21,4 @@ java.lang.RuntimeException: java.io.IOException: write failed
 Caused by: java.io.IOException: write failed
 	at com.install4j.runtime.installer.helper.comm.HelperCommunication.sendObject(HelperCommunication.java:506)
 	at com.install4j.runtime.installer.helper.comm.HelperCommunication.executeOther(HelperCommunication.java:286)
-	... 18 more
+	... 、、
